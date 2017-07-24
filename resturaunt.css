@@ -1,15 +1,26 @@
-h1{
-
-
-  color: #cc9900;
+* {
+  margin: 0;
+  padding: 0;
+}
+header{
+  height: 150px;
+  max_width: 1200px;
+  background-color:	#405580;
+  opacity: .9;
+}
+ul li {
+  display: inline;
+  margin-right: 10px;
+  font-size: 50px;
+    color: #ffffff;
 
 }
-h2{
-  color: 
+a{
+  color: #ffffff;
+  font-size: 50px;
+  text-decoration: none;
 }
-
 
 
 body {
-  background-color: #00ccff;
 }
