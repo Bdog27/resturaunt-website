@@ -21,7 +21,13 @@ a{
   font-size: 50px;
   text-decoration: none;
 }
-
-
+h1{
+  margin-left: 20px;
+  font-size: 73px;
+}
+img{
+  align: center;
+}
 body {
+  background-color: black;
 }

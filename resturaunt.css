@@ -25,7 +25,8 @@ p{
   color: #000000;
 }
 img{
-  display: inline-block;
+  display: inline;
 }
 body {
+  background-color: black;
 }
